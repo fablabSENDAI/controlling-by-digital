@@ -52,7 +52,7 @@ LEDには、電気を流す方向があります。
 
 につながります。
 
-<img src="assets/led.jpg" alt="hi" class="inline"/>
+<img src="assets/LED.jpg" alt="hi" class="inline"/>
 
 （別の見分け方として、[LEDの中の形を覗き込む方法](http://objects.avant.org/skating-the-circuits/led.png)もあります。）
 
