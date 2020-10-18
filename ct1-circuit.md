@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 回路について
-nav_order: 1
+nav_order: 2
 ---
 
 # 回路について
