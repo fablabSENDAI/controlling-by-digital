@@ -22,11 +22,24 @@ void setup()
 
 void loop()
 {
+  //seiten
   digitalWrite(7, HIGH);
   digitalWrite(8, LOW);
   delay(3000); // Wait for 3000 millisecond(s)
+
+  //break
+  digitalWrite(7, LOW);
+  digitalWrite(8, LOW);
+  delay(100); // Wait for 100 millisecond(s)
+
+  //gyakauten
   digitalWrite(7, LOW);
   digitalWrite(8, HIGH);
   delay(3000); // Wait for 3000 millisecond(s)
+
+  //break
+  digitalWrite(7, LOW);
+  digitalWrite(8, LOW);
+  delay(100); // Wait for 100 millisecond(s)
 }
 ```
