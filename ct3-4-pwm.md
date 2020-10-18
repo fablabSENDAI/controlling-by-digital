@@ -5,7 +5,7 @@ parent: Arduino
 nav_order: 4
 ---
 
-# PWM（ピーダブリューエム）
+# **PWM（ピーダブリューエム）**
 
 [参考](https://create.arduino.cc/projecthub/muhammad-aqib/arduino-pwm-tutorial-ae9d71)
 

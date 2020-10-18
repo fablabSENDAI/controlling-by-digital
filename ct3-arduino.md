@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-# Arduino
+# **Arduino**
 
 <img src="assets/arduino_body.png"  alt="hi" class="inline"/>
 

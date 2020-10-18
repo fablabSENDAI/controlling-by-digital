@@ -5,7 +5,7 @@ parent: Arduino
 nav_order: 2
 ---
 
-#スイッチでの入力
+# **スイッチでの入力**
 
 ### 配線
 <img src="assets/arduino_io.png"  alt="hi" class="inline"/>

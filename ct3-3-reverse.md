@@ -5,7 +5,7 @@ parent: Arduino
 nav_order: 3
 ---
 
-# モーターの逆転
+# **モーターの逆転**
 
 ### 配線
 

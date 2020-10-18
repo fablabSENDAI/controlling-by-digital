@@ -4,7 +4,7 @@ title: 回路について
 nav_order: 2
 ---
 
-# 回路について
+# **回路について**
 
 <img src="assets/basic_led_circuit.png" alt="hi" class="inline"/>
 
